@@ -59,7 +59,7 @@ const NamesSection = () => (
         <Heart className="text-foreground/20" size={56} />
       </div>
       <article className="space-y-3">
-        <h3 className="font-display text-3xl text-foreground">Ariba</h3>
+        <h3 className="font-display text-3xl text-foreground">saniya</h3>
         <p className="text-muted-foreground max-w-md mx-auto">
           Join us as we begin this beautiful journey together.
         </p>
@@ -289,7 +289,7 @@ const Index = () => {
               <p className="text-lg pb-20 md:text-xl text-foreground">In the name of Allah, the most beneficent and merciful.</p>
               <br />
               <h2 className="font-display text-5xl md:text-7xl text-foreground">
-                Asif & Ariba
+                Asif & saniya
               </h2>
               <p className="mt-4 text-lg md:text-xl text-muted-foreground">
                  Getting Married On SEP 15, 2025
@@ -319,9 +319,9 @@ const Index = () => {
             }  />
             </div>
            <div>
-             <Framed src={prayerMat} alt="Beautiful prayer mat with 'Ariba' written on it and flowers" caption={
+             <Framed src={prayerMat} alt="Beautiful prayer mat with 'saniya' written on it and flowers" caption={
               <>
-                <div className=" animate-pulse-scale delay-0 font-display text-2xl md:text-2xl text-foreground">Shaikh Ariba</div>
+                <div className=" animate-pulse-scale delay-0 font-display text-2xl md:text-2xl text-foreground">Shaikh saniya</div>
                 <div className="text-sm text-muted-foreground animate-pulse-scale delay-200">Bsc </div>
                 <div className="text-sm text-muted-foreground  animate-pulse-scale delay-400"><span className="font-bold text-muted-foreground">D/O : </span>  Shaikh salman</div>
               </>
